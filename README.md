@@ -6,4 +6,6 @@
 
 - 如果没有`node_modules`，执行`npm install`
 
+- 执行`node app.js`
+
 - 妹子都在`MeiZi`文件夹了
