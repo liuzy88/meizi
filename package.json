@@ -1,0 +1,23 @@
+{
+  "name": "meizi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://liuzy88:yjwkhhbj@github.com/liuzy88/meizi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuzy88/meizi/issues"
+  },
+  "homepage": "https://github.com/liuzy88/meizi#readme",
+  "dependencies": {
+    "cheerio": "*",
+    "node-fetch": "^2.6.1"
+  }
+}
